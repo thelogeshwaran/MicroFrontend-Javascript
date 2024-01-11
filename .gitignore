@@ -1,5 +1,6 @@
 /container/node_modules
 /products/node_modules
+/cart/node_modules
 
 /container/dist
 /products/dist
